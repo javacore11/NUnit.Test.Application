@@ -1,0 +1,2 @@
+2024-03-14 18:53:41.463 +05:30 [INF] Users retrieved: [{"Id":"b05e44a3-75a7-4f29-8bde-f9da67d8818f","Name":"test","Email":"test@gmail.com","NormalizedEmail":"TEST@GMAIL.COM","PhoneNumber":"9608140776","$type":"UserDTO"}]
+2024-03-14 18:57:43.228 +05:30 [INF] Users retrieved: {"Succeeded":true,"Errors":[],"$type":"IdentityResult"}

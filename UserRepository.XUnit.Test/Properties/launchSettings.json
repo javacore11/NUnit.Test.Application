@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "UserRepository.XUnit.Test": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
